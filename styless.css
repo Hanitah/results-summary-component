@@ -152,7 +152,7 @@ aside{
 #num{
     color:hsl(0, 0%, 70%);
 }
-@media only screen and (max-width:400px){
+@media only screen and (max-width:450px){
     .container{
         width:98%;
         display: flex;
