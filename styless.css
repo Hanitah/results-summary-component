@@ -152,7 +152,7 @@ aside{
 #num{
     color:hsl(0, 0%, 70%);
 }
-@media only screen and (max-width:500px){
+@media only screen and (max-width:400px){
     .container{
         width:98%;
         display: flex;
@@ -173,19 +173,19 @@ aside{
     height: 130px;
 }
 #rxna{
-    margin-left: -230px;
+    margin-left: 150px;
     color:hsl(0, 100%, 67%);
 }
 #rxnb{
-    margin-left: -230px;
+    margin-left: -150px;
     color:hsl(39, 100%, 56%);
 }
 #rxnc{
-    margin-left: -245px;
+    margin-left: -165px;
     color:hsl(166, 100%, 37%);
 }
 #rxnd{
-    margin-left: -245px;
+    margin-left: -165px;
     color:hsl(234, 85%, 45%);
 }
 .contain{
