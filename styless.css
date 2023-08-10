@@ -173,7 +173,7 @@ aside{
     height: 130px;
 }
 #rxna{
-    margin-left: 150px;
+    margin-left: -150px;
     color:hsl(0, 100%, 67%);
 }
 #rxnb{
